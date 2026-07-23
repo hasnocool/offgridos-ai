@@ -1,0 +1,5 @@
+name: offgridos-ai
+version: 0.1.0
+description: Local AI configuration and model defaults for OffGridOS.
+kind: workspace-package
+rootfs: rootfs
